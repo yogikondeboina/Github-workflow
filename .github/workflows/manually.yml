@@ -1,4 +1,4 @@
-name: Equality conditions in manually
+name: Equality conditions in manually flow
 
 on:
   workflow_dispatch:
